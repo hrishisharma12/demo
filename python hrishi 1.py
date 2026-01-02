@@ -1,0 +1,7 @@
+input("enter your name:")
+input("enter your age:")
+input("enter your marks:")
+print("WELCOME",'Hrishikesh')
+print("your age is",'19')
+print("your marks are",'9.5')
+name=input("enter your name")
