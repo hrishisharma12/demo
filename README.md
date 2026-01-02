@@ -1,2 +1,3 @@
-# demo
-first git repository
+#FIRST REPOSITORY
+THE JOURNEY STARTS
+
